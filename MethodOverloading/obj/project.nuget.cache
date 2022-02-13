@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RGcES4RAuqf26SeFbrvJ81uJmA34VnYBNdjk4BHq4Pp4OIVnn94558QS2LaGu4JoytTGmK6Za4+B+ximjJXwDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\MethodOverloading\\MethodOverloading\\MethodOverloading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
